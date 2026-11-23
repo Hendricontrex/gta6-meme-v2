@@ -1,0 +1,7 @@
+# build intermediates, kit and transcripts: never committed
+gta6-meme-x-01-kit/
+kit.tar.gz
+transcripts.tar.gz
+prompt.txt
+dev/
+assets/
